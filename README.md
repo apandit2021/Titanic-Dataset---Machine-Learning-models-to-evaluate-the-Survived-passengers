@@ -1,0 +1,1 @@
+Here I have used the popular Titanic Dataset, performed some data analysis/visualization and implemented some machine learning models (Support vector machine, K nearest neighbors, decision tree, and random forest) to predict about the Survival of the passengers.
